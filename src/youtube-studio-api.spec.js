@@ -35,7 +35,7 @@ describe('for authenticated user', () => {
             },
             adFormats: {
                 newHasOverlayAds: "ENABLED",
-                // newHasSkippableVideoAds: "ENABLED",
+                 newHasSkippableVideoAds: "ENABLED",
                 newHasNonSkippableVideoAds: "ENABLED",
                 newHasProductListingAds: "ENABLED"
             },
